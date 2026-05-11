@@ -58,8 +58,3 @@
 
 ---
 
-## ⚙️ 开发者部署
-
-1. **克隆项目**
-   ```bash
-   git clone [https://github.com/your-username/bar-merge-helper.git](https://github.com/your-username/bar-merge-helper.git)
